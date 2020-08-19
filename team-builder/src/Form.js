@@ -54,7 +54,7 @@ function Form() {
           </label>
           <br />
     
-          <button>Submit!</button>
+          <button>Submit</button>
         </form>
       </div>
     );
